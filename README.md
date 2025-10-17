@@ -137,7 +137,7 @@ Add your name and favorite Bay Area sports team below. Each person should add ON
 - Sarah Gooneratne - Favorite Team: Golden State Warriors
 - Monzer Alyaghan - Favorite Team: San Francisco 49ers
 - Ben Yoneda - San Francisco Giants
-
+- Matthew Olivas - Favorite Team: Oakland Athletics (A's)
 ---
 
 ## Bay Area Sports Teams Reference 🏆
